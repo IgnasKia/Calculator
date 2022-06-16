@@ -30,6 +30,5 @@ class UserInputs
             Console.WriteLine("That is an invalid number. Please try again.");
             return GetNumber();
         }
-
     }
 }

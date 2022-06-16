@@ -27,6 +27,5 @@
 
             Console.Clear();
         }
-
     }
 }
