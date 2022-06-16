@@ -21,7 +21,7 @@ public class ArithmeticCalculator : Arithmetics
         return a - b;
     }
 
-    public double Residue(double a, double b)
+    public double Remainder(double a, double b)
     {
         return a % b;
     }

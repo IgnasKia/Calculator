@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ignas\\Desktop\\ATEA\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\ignas.kiaulakys\\Desktop\\New folder\\Calculator\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ignas\\Desktop\\ATEA\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\ignas.kiaulakys\\Desktop\\New folder\\Calculator\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ignas\\Desktop\\ATEA\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\ignas.kiaulakys\\Desktop\\New folder\\Calculator\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\Ignas\\Desktop\\ATEA\\Calculator\\Calculator.csproj",
-        "packagesPath": "C:\\Users\\Ignas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ignas\\Desktop\\ATEA\\Calculator\\obj\\",
+        "projectPath": "C:\\Users\\ignas.kiaulakys\\Desktop\\New folder\\Calculator\\Calculator\\Calculator.csproj",
+        "packagesPath": "C:\\Users\\ignas.kiaulakys\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ignas.kiaulakys\\Desktop\\New folder\\Calculator\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ignas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ignas.kiaulakys\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

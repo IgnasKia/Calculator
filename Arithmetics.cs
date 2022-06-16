@@ -4,5 +4,5 @@ public interface Arithmetics
     double Substract(double a, double b);
     double Multiply(double a, double b);
     double Divide(double a, double b);
-    double Residue(double a, double b);
+    double Remainder(double a, double b);
 }

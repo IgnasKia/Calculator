@@ -13,3 +13,18 @@ C:\Users\Ignas\Desktop\ATEA\Calculator\obj\Debug\net6.0\refint\Calculator.dll
 C:\Users\Ignas\Desktop\ATEA\Calculator\obj\Debug\net6.0\Calculator.pdb
 C:\Users\Ignas\Desktop\ATEA\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
 C:\Users\Ignas\Desktop\ATEA\Calculator\obj\Debug\net6.0\ref\Calculator.dll
+C:\Users\ignas.kiaulakys\Desktop\New folder\Calculator\Calculator\bin\Debug\net6.0\Calculator.exe
+C:\Users\ignas.kiaulakys\Desktop\New folder\Calculator\Calculator\bin\Debug\net6.0\Calculator.deps.json
+C:\Users\ignas.kiaulakys\Desktop\New folder\Calculator\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\Users\ignas.kiaulakys\Desktop\New folder\Calculator\Calculator\bin\Debug\net6.0\Calculator.dll
+C:\Users\ignas.kiaulakys\Desktop\New folder\Calculator\Calculator\bin\Debug\net6.0\Calculator.pdb
+C:\Users\ignas.kiaulakys\Desktop\New folder\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\ignas.kiaulakys\Desktop\New folder\Calculator\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignas.kiaulakys\Desktop\New folder\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\ignas.kiaulakys\Desktop\New folder\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\Users\ignas.kiaulakys\Desktop\New folder\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ignas.kiaulakys\Desktop\New folder\Calculator\Calculator\obj\Debug\net6.0\Calculator.dll
+C:\Users\ignas.kiaulakys\Desktop\New folder\Calculator\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+C:\Users\ignas.kiaulakys\Desktop\New folder\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
+C:\Users\ignas.kiaulakys\Desktop\New folder\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+C:\Users\ignas.kiaulakys\Desktop\New folder\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll

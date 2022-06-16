@@ -21,7 +21,7 @@ public class Calculator : ArithmeticCalculator
                 result = calculate.Divide(number1, number2);
                 break;
             case "r":
-                result = calculate.Residue(number1, number2);
+                result = calculate.Remainder(number1, number2);
                 break;
             default:
                 break;
